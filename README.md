@@ -1,4 +1,4 @@
-# AI Exam Generator – Task 1
+# AI Exam Generator 
 
 ## Overview
 
